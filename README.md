@@ -25,11 +25,17 @@ CSS3
 
 Estrutura:
 seireitei-tsushin/
+
 ├── Seireitei-Tsūshin-Principal (Seireitei Tsūshin apenas no V1).html       # página inicial com as manchetes
+
 ├── rukia.html       # notícia sobre a execução de Rukia Kuchiki
+
 ├── aizen.html       # notícia sobre o capitão Aizen
+
 ├── central46.html   # notícia sobre a Central 46
+
 ├── extra.html       # edição extra
+
 └── style.css        # estilos de todo o site
 
 Como executar:
