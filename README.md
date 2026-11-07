@@ -11,6 +11,7 @@ Sobre o projeto
 O site simula as edições do jornal da 9ª Divisão: uma página inicial com as manchetes e uma página para cada notícia, incluindo uma edição extra com visual de destaque. O foco do projeto é praticar HTML e CSS na construção de um site de várias páginas, com atenção a responsividade e acessibilidade.
 
 Funcionalidades
+
 Site multipágina, com navegação entre a página inicial e as notícias.
 Layout responsivo com CSS Grid, Flexbox e media queries.
 Modo escuro automático, com base na preferência do sistema (prefers-color-scheme).
